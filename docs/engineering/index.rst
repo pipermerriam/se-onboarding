@@ -3,22 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Simple Energy Onboarding's documentation!
-====================================================
+Engineering!
+============
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-   intro
-   engineering/index
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   git/index
